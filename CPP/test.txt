@@ -1,0 +1,6 @@
+NARSDLGK
+ASKLNG;AE
+ASBGFLA
+END
+ramku\.vscode\extensions\ms-vscode.cpptools-1.18.5-win32-x64\debugAdapters\bin\WindowsDebugLauncher.exe' '--stdin=Microsoft-MIEngine-In-fukecsw3.naj' '--stdout=Microsoft-MIEngine-Out-pubiwf20.cqr' '--stderr=Microsoft-MIEngine-Error-zvibivoy.
+asegf
