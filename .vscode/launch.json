@@ -25,7 +25,8 @@
                 }
             ],
             "preLaunchTask": "C/C++: g++.exe build active file"
-        }
+        },
+
     ],
     "version": "2.0.0"
 }
